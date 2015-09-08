@@ -9,3 +9,14 @@ c:\users\carlos varela\documents\visual studio 2015\Projects\CalculosEnResortes\
 c:\users\carlos varela\documents\visual studio 2015\Projects\CalculosEnResortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.pdb
 c:\users\carlos varela\documents\visual studio 2015\Projects\CalculosEnResortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.Form1.resources
 C:\Users\Carlos Varela\documents\visual studio 2015\Projects\CalculosEnResortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.Varilla.resources
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\bin\Debug\CalculosEnResortes.exe.config
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.exe
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.pdb
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\bin\Debug\CalculosEnResortes.exe
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\bin\Debug\CalculosEnResortes.pdb
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.Form1.resources
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.Resorte.resources
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.Varilla.resources
+C:\Users\DELL\Documents\GitHub\Resortes\CalculosEnResortes\obj\Debug\CalculosEnResortes.csproj.GenerateResource.Cache
