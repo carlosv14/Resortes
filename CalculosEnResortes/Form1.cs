@@ -19,8 +19,19 @@ namespace CalculosEnResortes
 
         private void button1_Click(object sender, EventArgs e)
         {
+            
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
             Resorte r = new Resorte();
             r.ShowDialog();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Varilla v = new Varilla();
+            v.ShowDialog();
         }
     }
 }

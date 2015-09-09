@@ -9,9 +9,10 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CalculosEnResortes</RootNamespace>
     <AssemblyName>CalculosEnResortes</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -100,6 +101,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\resorte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\resorte-icono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\extension-spring.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\varillas.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
